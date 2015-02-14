@@ -1,0 +1,21 @@
+{
+  "name": "exotics",
+  "version": "1.0.0",
+  "authors": [
+    "Tom Carter"
+  ],
+  "description": "A utility to keep track of your currently owned Destiny exotic items",
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
